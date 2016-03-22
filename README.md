@@ -1,6 +1,4 @@
 # Projet_Dev
-Je devrais écrire une description de projet mais la flemme ...
-Donc ce sera surrement mon Github pour la piscine de 42
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
